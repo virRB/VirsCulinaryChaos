@@ -1,15 +1,22 @@
 # VirsCulinaryChaos
 
-##   How to use
-- You give it 2 ingredients, and it generates a (Wierd) dish with those ingredients
-- You can scroll the chaos wheel to change the amount of wierdness in the dish name
-- You can right click on the window to view your leaderboard
-- This does store your data
+## How to Use
+- Enter 2 ingredients and VCC will generate a weird AI-created dish
+- Use the Chaos slider to increase or decrease the weirdness level
+- Right-click the window to view your StarBoard leaderboard
+- Your data is saved locally
 
 ## Dependencies
-- Ollama
 - Python
+- Ollama
 
-## IMPORTANT
-- All give files should be in the same folder
-- Run startup.bat before running the program
+## Important
+- All project files must be in the same folder
+- Run `startup.bat` before starting the program
+
+## Lore
+Something escaped.
+
+The Blob evolved from chaos.
+
+It achieved Culinarification.
