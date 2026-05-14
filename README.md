@@ -14,7 +14,7 @@
 - All project files must be in the same folder
 - Run `startup.bat` before starting the program
 
-## Lore
+## Nothing to see here...
 - Something escaped.
 
 - The Blob evolved from chaos.
