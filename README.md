@@ -15,8 +15,8 @@
 - Run `startup.bat` before starting the program
 
 ## Lore
-Something escaped.
+- Something escaped.
 
-The Blob evolved from chaos.
+- The Blob evolved from chaos.
 
-It achieved Culinarification.
+- It achieved Culinarification.
